@@ -16,4 +16,6 @@ How to use:
 1º - perl babel.pl <br>
 2º - path+list of websites.txt <br>
 3º - Done! <br>
-4º - It´s going to generate a list of vulnerable websites with the name of "vulns.txt"
+4º - It´s going to generate a list of vulnerable websites with the name of "vulns.txt" <br>
+
+Credits to Lexy.
